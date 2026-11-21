@@ -30,10 +30,10 @@ I am a **Cybersecurity Engineer working in a banking SOC**, operating across **S
 
 | Repository | Focus Area | Target Role Alignment | Status |
 | :--- | :--- | :--- | :--- |
-| [**soc-analyst-lab**](https://github.com/abdelghani-demmouche/soc-analyst-lab) | Alert triage, Sigma & correlation rules, IR playbooks, multi-source log analysis, threat hunting, SOAR automation, and TryHackMe SOC paths | SOC Analyst (L1 / L2 / L3) | `TODO: In Progress` |
-| [**security-engineering-lab**](https://github.com/abdelghani-demmouche/security-engineering-lab) | High-availability BunkerWeb WAF, SIEM pipelines, CIS Linux/Docker hardening, DevSecOps CI/CD scanning, IaC, and vulnerability management | Security Engineer / DevSecOps | `TODO: In Progress` |
-| [**agentic-ai-security**](https://github.com/abdelghani-demmouche/agentic-ai-security) | Securing LLM/RAG systems, prompt injection labs, guardrails, and building safe agentic workflows for SOC alert triage & enrichment | Security Engineer / AI Security / SOAR | `TODO: Planned` |
-| [**red-team-lab**](https://github.com/abdelghani-demmouche/red-team-lab) | Authorized lab adversary simulations, Active Directory attack paths, WAF bypass testing in lab, and Purple Team attack-to-Sigma mapping | Purple Team / Detection Engineering | `TODO: Planned` |
+| [**soc-analyst-lab**](https://github.com/boughaniLabo/soc-analyst-lab) | Alert triage, Sigma & correlation rules, IR playbooks, multi-source log analysis, threat hunting, SOAR automation, and TryHackMe SOC paths | SOC Analyst (L1 / L2 / L3) | `TODO: In Progress` |
+| [**security-engineering-lab**](https://github.com/boughaniLabo/security-engineering-lab) | High-availability BunkerWeb WAF, SIEM pipelines, CIS Linux/Docker hardening, DevSecOps CI/CD scanning, IaC, and vulnerability management | Security Engineer / DevSecOps | `TODO: In Progress` |
+| [**agentic-ai-security**](https://github.com/boughaniLabo/agentic-ai-security) | Securing LLM/RAG systems, prompt injection labs, guardrails, and building safe agentic workflows for SOC alert triage & enrichment | Security Engineer / AI Security / SOAR | `TODO: Planned` |
+| [**red-team-lab**](https://github.com/boughaniLabo/red-team-lab) | Authorized lab adversary simulations, Active Directory attack paths, WAF bypass testing in lab, and Purple Team attack-to-Sigma mapping | Purple Team / Detection Engineering | `TODO: Planned` |
 
 ---
 
@@ -89,6 +89,6 @@ abdelghani-demmouche/
 ## Contact
 
 - **Email:** `TODO: Add your professional email address`
-- **GitHub:** [github.com/abdelghani-demmouche](https://github.com/abdelghani-demmouche)
+- **GitHub:** [github.com/boughaniLabo](https://github.com/boughaniLabo)
 - **LinkedIn:** `TODO: Add your LinkedIn profile URL`
 - **Location / Mobility:** Open to roles in **Luxembourg, Germany, France, and Belgium**
